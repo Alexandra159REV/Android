@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Text composable</string>
+
+    <string name="Uno">Text composable</string>
+    <string name="Dos">Displays text and follows the recommended Material Design guidelines.</string>
+
+    <string name="Tres">Image composable</string>
+    <string name="Cuatro">Creates a composable that lays out and draws a given Painter class object.</string>
+
+    <string name="Sinco">Row composable</string>
+    <string name="Seis">A layout composable that places its children in a horizontal sequence.</string>
+
+    <string name="Siete">Column composable</string>
+    <string name="Ocho">A layout composable that places its children in a vertical sequence.</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">tarjeta</string>
+    <string name="titulo">Alexandra Revilla</string>
+
+    <string name="ParrafonUno">Android developer extraordinaire</string>
+    <string name="ParrafonDos">77710455</string>
+
+    <string name="ParrafonTres">Android@</string>
+    <string name="ParrafonCuatro">alexandrarevilla@gmil.com</string>
+
+</resources>
