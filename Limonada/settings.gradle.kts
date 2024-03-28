@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Limonada"
 include(":app")
- 

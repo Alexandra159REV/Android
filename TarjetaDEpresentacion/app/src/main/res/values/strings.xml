@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Limonada</string>
+
+    <string name="nombre">Alexandra Revilla</string>
+    <string name="cargo">Desarrollador de Android extraordinario</string>
+    <string name="telefono">+11 (123) 444 555 666</string>
+    <string name="compartido">\@AndroidDev</string>
+    <string name="correo">alex.rev@android.com</string>
+    <string name="telefono_2">Telefono</string>
+    <string name="compartido_2">Contacto compartido</string>
+    <string name="correo_2">Correo electronico</string>
+</resources>

@@ -53,10 +53,8 @@ fun administradorr(titulo: String, ParrafonUno: String, imagen: Painter, modifie
     Column(modifier = modifier) {
 
         Image(
-
             painter = imagen,
             modifier = Modifier.padding(top = 165.dp, bottom = 10.dp, start = 80.dp),
-
             contentDescription = null)
 
         Text(

@@ -1,15 +1,10 @@
 <resources>
-    <string name="app_name">Text composable</string>
-
-    <string name="Uno">Text composable</string>
-    <string name="Dos">Displays text and follows the recommended Material Design guidelines.</string>
-
-    <string name="Tres">Image composable</string>
-    <string name="Cuatro">Creates a composable that lays out and draws a given Painter class object.</string>
-
-    <string name="Sinco">Row composable</string>
-    <string name="Seis">A layout composable that places its children in a horizontal sequence.</string>
-
-    <string name="Siete">Column composable</string>
-    <string name="Ocho">A layout composable that places its children in a vertical sequence.</string>
+    <string name="primer_encabezado">Texto componible</string>
+    <string name="primer_cuerpo">Muestra texto y sigue las pautas recomendadas de Material Design.</string>
+    <string name="segundo_encabezado">Imagen componible</string>
+    <string name="tercer_encabezado">Fila componible</string>
+    <string name="cuarto_encabezado">Columna componible</string>
+    <string name="segundo_cuerpo">Crea un elemento componible que diseña y dibuja un objeto de clase Painter determinado.</string>
+    <string name="tercer_cuerpo">Un diseño componible que coloca a sus elementos secundarios en una secuencia horizontal.</string>
+    <string name="cuarto_cuerpo">Un diseño componible que coloca a sus elementos secundarios en una secuencia vertical.</string>
 </resources>
